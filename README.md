@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 <div align="center">
 <img src ="https://github.com/tjdqls3607/tjdqls3607/assets/101077436/48df6479-444d-4e3a-b10d-eb62e1c834c9"/>
 </div>
-<div align="center">
-<img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
 <br>
 <br>
 <div align=center><h1>📚 🖥️공부중🖥️</h1></div>

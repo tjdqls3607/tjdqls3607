@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align=center><h1>📚 🖥️공부중🖥️</h1></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJdk&logoColor=white"> 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=Yellow">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <br>
 <h1>💻관심💻</h1>

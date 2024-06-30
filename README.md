@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Practice+JAVA+Python+Oracle+MySql+""+"";)](https://git.io/typing-svg)
 <br>
 <br>
+<h3>"공부중인 언어</h3><br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJdk&logoColor=white"> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 

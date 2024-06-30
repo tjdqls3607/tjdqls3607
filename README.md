@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=test&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=꾸물꾸물꾸물꾸물&fontSize=70&animation=twinkling)
 
 <div align="center">
 <img src ="https://github.com/tjdqls3607/tjdqls3607/assets/101077436/48df6479-444d-4e3a-b10d-eb62e1c834c9"/>

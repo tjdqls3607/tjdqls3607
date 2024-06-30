@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center><h1>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Practice+JAVA+Python+Oracle+MySql+""+"";)](https://git.io/typing-svg)</h1></div>
+<div align=center>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Practice+JAVA+Python+Oracle+MySql+""+"";)](https://git.io/typing-svg)</div>
 <br>
 <br>
 <div align=center><h1>📚 🖥️공부중🖥️</h1></div>

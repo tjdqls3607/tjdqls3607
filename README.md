@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <img src ="https://github.com/tjdqls3607/tjdqls3607/assets/101077436/48df6479-444d-4e3a-b10d-eb62e1c834c9"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdqls3607&show_icons=true&theme=radical)
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdqls3607&show_icons=true&theme=radical)
 <br>
 <br>
 <div align=center><h1>📚 🖥️공부중🖥️</h1></div>

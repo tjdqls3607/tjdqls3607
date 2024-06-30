@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJdk&logoColor=white"> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=spring&logoColor=purple"> 
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=spring&logoColor=purple">
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=spring&logoColor=purple"> 
 <br>
 <h1>💻관심💻</h1>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 

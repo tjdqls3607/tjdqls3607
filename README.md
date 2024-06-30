@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Practice+JAVA+Python+Oracle+MySql+""+"";)](https://git.io/typing-svg)
-</div>
 <br>
 <br>
 <div align=center><h1>📚 🖥️공부중🖥️</h1></div>

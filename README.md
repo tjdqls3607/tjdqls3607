@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=tjdqls3607&show_icons=true&theme=radical"/>
-  <div>&nbsp&nbsp&nbsp&nbsp</div>
+  &emsp;&emsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </div>
 <br>

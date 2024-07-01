@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   &emsp;&emsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </div>
+<div aling ="center">
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=vue"/>(https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 <br>
 <br>
 <div align=center><h1>📚 🖥️공부중🖥️</h1></div>

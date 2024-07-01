@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </div>
 <div aling ="center">
-  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=vue"/>(https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=tjdqls3607&theme=vue"/>
 </div>
 <br>
 <br>

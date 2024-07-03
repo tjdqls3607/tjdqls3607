@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=tjdqls3607&show_icons=true&theme=radical"/>
   &emsp;&emsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdqls3607&layout=compact"/>
 </div>
 <div aling ="center">
   <img src = "https://github-readme-activity-graph.vercel.app/graph?username=tjdqls3607&theme=vue"/>

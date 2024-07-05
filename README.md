@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://streak-stats.demolab.com?user=tjdqls3607&theme=tokyonight&hide_border=true&locale=ko"/>
 </div>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=tjdqls3607&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tjdqls3607"/>
   &emsp;&emsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdqls3607&layout=compact"/>
 </div>

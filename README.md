@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
+<div align=center><h1>s✍내 블로그!✍</h1></div>
+<img src="https://velog-readme-stats.vercel.app/api/badge?name=tjdqls3607">
 <div align=center><h1>📚 🖥️공부중🖥️</h1></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJdk&logoColor=white"> 

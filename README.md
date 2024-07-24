@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 <div align=center><h1>✍내 블로그!✍</h1></div>
 <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdqls3607)](https://velog.io/@tjdqls3607)
+<a href = [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdqls3607)](https://velog.io/@tjdqls3607)/>
 <div align=center><h1>📚 🖥️공부중🖥️</h1></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJdk&logoColor=white"> 

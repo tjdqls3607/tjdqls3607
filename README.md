@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=👋Hi~+Welcome~🤗&fontSize=50&animation=twinkling)
 
-✍내 블로그!✍
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdqls3607)](https://velog.io/@tjdqls3607)
+
 <div align="center">
 <img src ="https://github.com/tjdqls3607/tjdqls3607/assets/101077436/48df6479-444d-4e3a-b10d-eb62e1c834c9"/>
 </div>
@@ -60,9 +59,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
 <img src="https://img.shields.io/badge/sublime text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white">
 <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-
-<h1>✍내 블로그!✍</h1>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdqls3607)](https://velog.io/@tjdqls3607)
 <div>
   <h1>✍ 내 블로그! ✍</h1>
   <a href="https://velog.io/@tjdqls3607">

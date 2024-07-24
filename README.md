@@ -63,6 +63,9 @@ Here are some ideas to get you started:
 
 <h1>✍내 블로그!✍</h1>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdqls3607)](https://velog.io/@tjdqls3607)
+# ✍ 내 블로그! ✍
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdqls3607)](https://velog.io/@tjdqls3607) 📊 내 Velog 프로필 📊
+
 </div>
 
 

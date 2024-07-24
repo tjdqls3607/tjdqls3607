@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=👋Hi~+Welcome~🤗&fontSize=50&animation=twinkling)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdqls3607)]
+
 <div align="center">
 <img src ="https://github.com/tjdqls3607/tjdqls3607/assets/101077436/48df6479-444d-4e3a-b10d-eb62e1c834c9"/>
 </div>

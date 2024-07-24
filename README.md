@@ -60,10 +60,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
 <img src="https://img.shields.io/badge/sublime text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white">
 <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+</div>
 <h1>✍내 블로그!✍</h1>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tjdqls3607)](https://velog.io/@tjdqls3607)
 
-</div>
+
 
 
 

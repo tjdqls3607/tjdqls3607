@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tjdqls3607)](https://github.com/eungyeole/velog-readme-stats)
 
 
 <div align=center><h1>📚 🖥️공부중🖥️</h1></div>

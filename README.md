@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   &emsp;&emsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdqls3607&layout=compact"/>
 </div>
-<div aling ="center">
+<div align ="center">
   <img src = "https://github-readme-activity-graph.vercel.app/graph?username=tjdqls3607&theme=vue"/>
 </div>
 <br>

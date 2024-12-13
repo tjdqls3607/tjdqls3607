@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 <div>
 <img src ="https://velog-readme-stats.vercel.app/api?name=tjdqls3607"/>
-![LeetCode Stats](https://leetcard.jacoblin.cool/tjdqls3607?theme=unicorn&font=Mali&ext=heatmap&site=us)
+<img src = "https://leetcard.jacoblin.cool/tjdqls3607?theme=unicorn&font=Mali&ext=heatmap&site=us"/>
 </div>
 
 <div align=center><h1>📚 🖥️공부중🖥️</h1></div>

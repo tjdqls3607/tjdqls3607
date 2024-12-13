@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-(https://velog-readme-stats.vercel.app/api?name=tjdqls3607)](https://github.com/eungyeole/velog-readme-stats)
+[(https://velog-readme-stats.vercel.app/api?name=tjdqls3607)](https://github.com/eungyeole/velog-readme-stats)
 <img src = "https://leetcard.jacoblin.cool/tjdqls3607?theme=unicorn&font=Mali&ext=heatmap&site=us"/>
 
 

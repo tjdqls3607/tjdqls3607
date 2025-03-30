@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 <br>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tjdqls3607&color=dark)](https://velog.io/@tjdqls3607)
-<img src = "https://leetcard.jacoblin.cool/tjdqls3607?theme=unicorn&font=Mali&ext=heatmap&site=us"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdqls3607)](https://solved.ac/tjdqls3607/)
+
 
 
 <div align=center><h1>📚 🖥️공부중🖥️</h1></div>
